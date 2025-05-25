@@ -28,10 +28,10 @@ nav{
     justify-content: space-between;
     flex-wrap: wrap;
 }
-.logo{
+/* .logo{
     width: 70px;
     height: 25px;
-}
+} */
 
 nav ul li{
     display: inline-block;
